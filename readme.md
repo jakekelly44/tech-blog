@@ -22,7 +22,7 @@ Seed DB;
 `npm run seed`     
 
 Start Server;     
-`npm server`     
+`npm start server`     
 
 ## Credits
 
