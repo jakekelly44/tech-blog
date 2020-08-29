@@ -13,7 +13,7 @@ This is a project which was developed for the University of Arizona Coding Bootc
 
 ## Usage 
 
-Clone the repo, navigate to the root folderm run the following commands from the CLI:     
+Clone the repo, navigate to the root folder, run the following commands from the CLI:     
 
 Run Test;    
 `npm run test`     
@@ -52,9 +52,10 @@ SOFTWARE.
 
 ## Documentation
 
-![Screenshot](doc/proof.png?raw=true "Proof of Application")  
+Live Deployed Application: [View Application](https://uabc-mvc-tech-blog.herokuapp.com/ "Live Deploy")      
 
-Live Deployed Application: [View Application](https://uabc-mvc-tech-blog.herokuapp.com/ "Live Deploy") 
+![Screenshot](doc/proof.png?raw=true "Proof of Application")      
+
 
 
 
