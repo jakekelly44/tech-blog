@@ -19,7 +19,7 @@ Run Test;
 `npm run test`     
 
 Seed DB;   
-`node seeds`     
+`npm run seed`     
 
 Start Server;     
 `npm server`     
